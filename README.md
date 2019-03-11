@@ -1,0 +1,2 @@
+# seonweon
+ajou capstone teaming
